@@ -1,0 +1,17 @@
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\bin\Debug\Dominio.dll
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\bin\Debug\Dominio.pdb
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\bin\Debug\Infraestructura.dll
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\bin\Debug\Infraestructura.pdb
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\bin\Debug\Infraestructura.dll.config
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio_MarkupCompile.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio_MarkupCompile.lref
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Themes\Generic.baml
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.g.resources
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.dll
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Dominio\obj\Debug\Dominio.pdb

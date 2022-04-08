@@ -1,0 +1,17 @@
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Integracion-Tercero.exe.config
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Integracion-Tercero.exe
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Integracion-Tercero.pdb
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Dominio.dll
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Infraestructura.dll
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Dominio.pdb
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Infraestructura.pdb
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\bin\Debug\Infraestructura.dll.config
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Integracion_Tercero.Properties.Resources.resources
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Integracion-Tercero.exe
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Integracion-Tercero.pdb
+C:\Users\I&S\source\repos\WS\Integracion-Tercero\Integracion-Tercero\obj\Debug\Integracion_Tercero.Presentacion.resources

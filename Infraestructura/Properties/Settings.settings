@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Infraestructura.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Infraestructura_WSUNOEE_WSUNOEE" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.200/WSUNOEE/WSUNOEE.Asmx</Value>
+    </Setting>
+    <Setting Name="Infraestructura_WSGT_wsGenerarPlano" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/GTIntegration/ServiciosWeb/wsGenerarPlano.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
